@@ -1,6 +1,6 @@
 # Data Jobs Dashboard with Power BI
 
-![Dashboard Page 1](Images\Project1_Image1.png)
+![Dashboard Page 1](Images/Project1_Image1.png)
 
 
 
@@ -13,6 +13,8 @@ The report consolidates fragmented labor market information into a single, inter
 
 ### Dashboard File
 You can find the Power BI file for the dashboard here: [Data Jobs Dashboard](/Data%20Jobs%20Dashboard%20-%20Power%20BI.pbix)
+
+*You will need to click on **View raw** inside the Data Jobs Dashboard folder in order to download the Power BI File*
 
 
 ## Skills & Features
@@ -37,13 +39,13 @@ This project demonstrates practical Power BI capabilities:
 
 ### Page 1: High-Level Market View
 
-![Data Jobs Dashboard Page 1](Images\Project1_Image1.png)  
+![Data Jobs Dashboard Page 1](Images/Project1_Image1.png)  
 
 Provides a high-level snapshot of the data job market, including total job count, median salaries, and the most in-demand roles.
 
 ### Page 2: Job Title Drill Through
 
-![Data Jobs Dashboard Page 2](Images\Project1_Image2.png)
+![Data Jobs Dashboard Page 2](Images/Project1_Image2.png)
 
 Enables deeper analysis for individual job titles, showing salary distributions, remote work availability, top hiring platforms and geographic demand.
 
